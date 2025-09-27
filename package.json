@@ -1,5 +1,5 @@
 {
-  "name": "com.mtg.commandqueue",
+  "name": "com.custom.commandqueue",
   "version": "1.0.0",
   "displayName": "Command Queue",
   "description": "",
@@ -11,7 +11,7 @@
   "keywords": [
   ],
   "author": {
-    "name": "MTG",
+    "name": "Custom",
     "email": "",
     "url": ""
   },
